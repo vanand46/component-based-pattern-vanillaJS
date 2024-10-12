@@ -1,0 +1,15 @@
+{
+  "name": "component-based-patterns",
+  "version": "1.0.0",
+  "description": "It is vanilla JavaScript repo to showcase how component based patterns works.",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "npx live-server src/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "1.2.1"
+  }
+}
